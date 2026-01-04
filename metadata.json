@@ -1,0 +1,5 @@
+{
+  "name": "PineScript Architect",
+  "description": "An AI-powered Pine Script code generator for TradingView. Create custom indicators and strategies instantly using natural language descriptions.",
+  "requestFramePermissions": []
+}
